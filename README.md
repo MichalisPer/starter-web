@@ -8,7 +8,7 @@ This example is to show different parts of Git repo and various commands.
 
 ## Purpose
 
-This is the last change. Some other purpose.
+This is the last change. Some other purpose. Extra purpose.
 
 ## Deployment
 
