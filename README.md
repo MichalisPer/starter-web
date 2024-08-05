@@ -12,6 +12,8 @@ This is the last change.
 
 ## Deployment
 
+Please fork this and do whatever you want.
+
 ### Copyright
 
 2024 Copyright notice.
