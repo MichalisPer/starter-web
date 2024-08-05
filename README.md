@@ -11,3 +11,7 @@ This example is to show different parts of Git repo and various commands.
 This is the last change.
 
 ## Deployment
+
+### Copyright
+
+2024 Copyright notice.
