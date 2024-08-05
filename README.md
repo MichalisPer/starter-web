@@ -16,4 +16,4 @@ Please fork this and do whatever you want.
 
 ### Copyright
 
-2024 Copyright notice update. All rights reserved.
+2024 Copyright notice update. All rights reserved. Emergency.
